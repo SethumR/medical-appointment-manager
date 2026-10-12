@@ -2,8 +2,6 @@
 
 A professional, full-stack web application for scheduling, managing, searching, and filtering clinic appointments. Built with **FastAPI**, **SQLAlchemy 2.0**, **SQLite**, **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**.
 
-> **Note**: This application is a technical assessment demonstration. It uses **fictional data only** and is not intended for clinical use.
-
 ---
 
 ## Features

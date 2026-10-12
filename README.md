@@ -155,4 +155,3 @@ npm run lint
 Detailed documentation is available in the `docs/` folder:
 - [Architecture & Design Decisions](docs/architecture.md): Deep dive into layers, interval overlap arithmetic, and data integrity.
 - [Testing Strategy & Report](docs/testing.md): Complete list of test cases across unit, API, and E2E suites.
-- [AI Development & Review Log](docs/ai-development-log.md): Record of code review, caught defects (e.g. method shadowing, React 19 ESLint cascading render rules, peer dependency resolution), and lessons learned.
